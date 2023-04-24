@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+This project is a highly responsive web application built using React.js and JavaScript. The UI is created using CSS, a popular React component library that provides a set of accessible and customizable UI components. The dashboard charts are implemented using Apex Charts, a third-party charting library that offers a wide range of data visualization tools.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Table of Contents
+Getting Started
+Usage
+Contributing
+License
+Getting Started
+To get started with this project, you will need to clone the repository to your local machine and run the following command in the project directory to install the necessary dependencies:
 
-## Available Scripts
+npm install
+Once the dependencies are installed, you can run the following command to start the development server:
 
-In the project directory, you can run:
+npm run dev
+This will launch the web application in your default browser at http://localhost:3000/.
 
-### `npm start`
+Usage
+The web application provides a highly responsive dashboard interface that allows users to view and interact with data in a user-friendly manner. The dashboard includes various charts that are implemented using ApexCharts, which offers a wide range of chart types and customization options.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To use the dashboard, users can navigate through the various tabs and charts to view data and compare trends. The charts are interactive, allowing users to hover over data points and see detailed information.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Contributing
+We welcome contributions to this project from the community. If you encounter any bugs or have ideas for new features, please submit an issue or pull request on GitHub.
 
-### `npm test`
+Please follow these guidelines when contributing to this project:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Use Javascript for all code.
+Use Apex Charts for all data visualizations.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-### `npm run build`
+Acknowledgments
+We would like to thank the creators of Apex Charts for providing such useful libraries to the React community.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contact
+For any questions or feedback about this project, please contact S.Sri Sukitha Reddy at sukithasuresh168@gmail.com.
