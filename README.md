@@ -12,7 +12,7 @@ npm install
 Once the dependencies are installed, you can run the following command to start the development server:
 
 npm run dev
-This will launch the web application in your default browser at http://localhost:3000/.
+This will launch the web application in your default browser at http://localhost:3000/
 
 Usage
 The web application provides a highly responsive dashboard interface that allows users to view and interact with data in a user-friendly manner. The dashboard includes various charts that are implemented using ApexCharts, which offers a wide range of chart types and customization options.
